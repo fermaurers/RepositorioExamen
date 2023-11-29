@@ -1,2 +1,3 @@
 probando que se comunique con el repositoriorio remoto
 ahora probando que se edite en el repositorio local
+linea 3 para antes de hacer un merge
